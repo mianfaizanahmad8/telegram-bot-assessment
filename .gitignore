@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
+logs/
+
+# IDE/editor folders
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package-lock file (optional, depending on your use case)
+package-lock.json
