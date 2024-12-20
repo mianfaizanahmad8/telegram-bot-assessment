@@ -8,5 +8,5 @@ Let me know if you need further modifications!
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/telegram-bot-assessment.git
+   git clone https://github.com/mianfaizanahmad8/telegram-bot-assessment.git
    ```
