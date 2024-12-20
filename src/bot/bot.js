@@ -11,9 +11,6 @@ const openai = new OpenAI({
 
 // Function to get GPT response
 async function getGPTResponse(prompt) {
-  console.log("****************");
-  console.log("promopt", prompt);
-  console.log("****************");
   try {
     const response = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
